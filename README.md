@@ -7,5 +7,5 @@
 * Numpy
 
 #Test
-curl -X POST -F image=@test1.jpg 'http://localhost:5000/predict'
-return Json response with predictions and sucess message
+* curl -X POST -F image=@test1.jpg 'http://localhost:5000/predict'
+* returns Json response with predictions and sucess message
